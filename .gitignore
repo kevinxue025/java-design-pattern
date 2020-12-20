@@ -1,0 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+HSP-designpattern/src/main/resources/
+HSP-designpattern/src/test/
