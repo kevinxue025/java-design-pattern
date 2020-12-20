@@ -2,7 +2,7 @@ package com.jakarta.singleton;
 
 /**
  * @author Kevin Xue
- * @create 2020-12-20 17:12
+ * @create 2020-12-20
  * @description: 懒汉式（静态内部类）
  */
 public class type7 {

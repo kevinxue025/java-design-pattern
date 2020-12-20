@@ -2,7 +2,7 @@ package com.jakarta.singleton;
 
 /**
  * @author Kevin Xue
- * @create 2020-12-20 16:62
+ * @create 2020-12-20
  * @description: 懒汉式（双重检查）
  */
 public class type6 {

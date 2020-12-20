@@ -2,7 +2,7 @@ package com.jakarta.singleton;
 
 /**
  * @author Kevin Xue
- * @create 2020-12-20 14:06
+ * @create 2020-12-20
  * @description: 饿汉式（静态常量）
  */
 public class type1 {

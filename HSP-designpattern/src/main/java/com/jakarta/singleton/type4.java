@@ -2,7 +2,7 @@ package com.jakarta.singleton;
 
 /**
  * @author Kevin Xue
- * @create 2020-12-20 14:42
+ * @create 2020-12-20
  * @description: 懒汉式（线程安全，同步方法）
  */
 public class type4 {
