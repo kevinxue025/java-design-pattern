@@ -3,7 +3,7 @@ package com.jakarta.singleton;
 /**
  * @author Kevin Xue
  * @create 2020-12-20 15:52
- * @description:
+ * @description: 懒汉式（线程安全，同步代码块）
  */
 public class type5 {
     public static void main(String[] args) {
